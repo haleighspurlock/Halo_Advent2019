@@ -5,6 +5,6 @@ for(var i=0; i<modules.length; i++){
     var fuelRequired = Math.floor(mass / 3) - 2
     total = total + fuelRequired
 }
-console.log(total)
+console.log(total) 
 
 // console.log(fuelRequired);
