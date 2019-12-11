@@ -7,4 +7,4 @@ for(var i=0; i<modules.length; i++){
 }
 console.log(total) 
 
-// console.log(fuelRequired);
+// console.log(fuelRequired); 
